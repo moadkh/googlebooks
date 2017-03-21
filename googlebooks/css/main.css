@@ -1,0 +1,50 @@
+html {
+  padding: 0;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  
+}
+
+body {
+  background-image: url('../img/bg.jpg');
+}
+
+#results{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#search{
+  text-align: center;
+  height: 45px;
+  width: 45%;
+}
+
+button{
+  height: 45px;
+  width: 45%;
+  font-size: 25px;
+}
+
+
+h2{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+h1{
+  margin-top: 5%;
+  font-size: 400%;
+}
+
+.row {
+  margin-top:100px;
+}
+
+.bookWrap {
+  height:285px;
+  margin-top:20px;
+  border-bottom:1px solid gray;
+}
